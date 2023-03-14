@@ -15,3 +15,5 @@ out the project, please follow the steps below:
 
 1. Use `npm run dev` (or equivalent) to start the application with a 
    development server.
+
+2. TESTING
