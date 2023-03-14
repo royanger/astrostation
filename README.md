@@ -17,3 +17,5 @@ out the project, please follow the steps below:
    development server.
 
 2. TESTING
+
+3. MORE TESTING
